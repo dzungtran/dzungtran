@@ -2,7 +2,7 @@
 Currently, I'm living in Ha Noi and working as a Software Engineer at ShopBase.
 
 #### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/iamdzung/)
+- Leave me a message at [LinkedIn](https://www.linkedin.com/in/iamdzung/)
 - or by Email: [hello at iamdzung dot com](hello@iamdzung.com)
 
 <!--
