@@ -1,5 +1,5 @@
 ### Hi there 👋
-Currently, I'm living in Ha Noi and work as a Software Engineer at ShopBase.
+Currently, I'm living in Ha Noi and working as a Software Engineer at ShopBase.
 
 #### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/iamdzung/)
