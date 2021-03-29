@@ -3,7 +3,7 @@ Currently, I'm living in Ha Noi and working as a Software Engineer at ShopBase.
 
 #### 📫 How to reach me:
 - Leave me a message at [LinkedIn](https://www.linkedin.com/in/iamdzung/)
-- or by Email: [hello at iamdzung dot com](hello@iamdzung.com)
+- or by Email: [hello at iamdzung dot com](mailto:hello@iamdzung.com?subject=Ask me anything)
 
 <!--
 **dzungtran/dzungtran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
